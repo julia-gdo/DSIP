@@ -1,0 +1,15 @@
+Cpu: Apple M4 Pro
+Cores: 14 (10 performance and 4 efficiency)
+Core Speed: 2.3GHz
+RAM: 24GB
+Model: LPDDR5
+Ram Speed: 4266 MHz unified memory
+GPU: Integrated GPU
+VRAM: no fixed VRAM (integrated GPU with the RAM)
+Firmware: macOS 15.5
+Installed on: 6/10/25, 4:15 PM
+Bios: MacOS does not have bios
+Screen Resolution: 3024 x 1964 Retina
+800x600: It made the quality on the MacBook very poor as well as made everything really zoomed in. 
+Portrait mode:It made the display only take up the center of my screen and the borders remained back. I would use this if I had to look at documents or papers as a whole as it allowed me to see the entire screen horizontally. It would be an alternative to just zooming out in order to look at an entire document. 
+

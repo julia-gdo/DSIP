@@ -1,0 +1,12 @@
+77 6F 72 6C 64
+00001840
+0x0000003E
+0x00000036
+
+6.3: it does not open nor run. When put in the hex reader, the file becomes more compressed, there is no more header or anything telling the computer how to run. It also did change the bytes within the file as well. 
+It tells me that the file is locked and if I want to make changes to it I must unlock it. This is because it's "read only" therefore I don't have permission to change the content within the file. 
+
+7:
+1. I have one disk on my machine
+2. Its model is: APFS Volume Group. Its capacity is: 994.66 GB. Its speed is: 6,738 MB/s read and 7,500 MB/s write
+3. I have 3 partitions. The biggest one has 995 GB. The other two have 0.524 GB and 5.37 GB. The big one contains Apps and Data Storage while the other ones contain computer and System files. 

@@ -1,0 +1,12 @@
+5. 
+	total active drivers: 269
+	wifi drivers located in: System/Library/Extensions and /Library/Extensions
+	wifi driver names: AppleUSBNetworking.kext
+			   IONetworkFamily.kext
+			   IONetworkingFamily.kext
+
+6.1 
+	percent of cpu: 0.2%
+	ram used: 2.9 MB
+6.2
+	Google Chrome.app
